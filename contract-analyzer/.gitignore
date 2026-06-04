@@ -1,0 +1,7 @@
+.venv/
+node_modules/
+__pycache__/
+uploads/
+reports/
+project_structure.txt
+.env
